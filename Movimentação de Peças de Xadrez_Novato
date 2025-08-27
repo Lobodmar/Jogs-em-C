@@ -29,7 +29,7 @@ int main(void) {
 
     /* 
        RAINHA — DO-WHILE
-       Move em todas as direções. Aqui: Esquerda.*/
+       Move em todas as direções. Esquerda.*/
     printf("Movimento da Rainha (do-while): %d casas para a esquerda\n", passos_rainha);
     int contador_rainha = 0;
     if (passos_rainha > 0) {
